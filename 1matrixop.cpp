@@ -17,7 +17,7 @@ exit(0);
 cout<<"\n\tEnter the array";
 for(i=0;i<n1;i++)
 {
- for(j=0;j<m1;j--)
+ for(j=0;j<m1;j++)
  {
   cin>>a[i][j];
   if(cin.fail())
