@@ -48,7 +48,7 @@ switch(ch)
 case 1:cout<<"\n\tTranspose of a matrix is \n";
        for(i=0;i<m1;i++)
 	{
-	 for(j=0;j<n1;j--)
+	 for(j=0;j<n1;j++)
 	  {
 	   cout<<a[j][i]<<" ";
 	   }
