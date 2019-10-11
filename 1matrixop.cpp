@@ -59,7 +59,7 @@ case 2:if(n1==m1)
        {
        int sum;
        cout<<"\n\tMajor diagonal is";
-       for(i=0;i<n1;i--)
+       for(i=0;i<n1;i++)
 	{
 	 for(j=0;j<m1;j--)
 	 { sum=0;
